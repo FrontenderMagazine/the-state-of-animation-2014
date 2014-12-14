@@ -1,7 +1,5 @@
-<article class="post-210830 post type-post status-publish format-standard has-
-post-thumbnail hentry category-coding tag-animation tag-api tag-css tag-
-javascript
-">
+# The state of animation 2014
+
 The post-Flash era is hardly free of animation. CSS animation is quickly
 becoming a cornerstone of user-friendly interfaces on mobile and desktop, and 
 JavaScript libraries already exist to handle complex interactive animations. In 
@@ -291,7 +289,16 @@ Rachel Nabors has an [updated list of resources on the Web Animation API][67]
 [30][68]. To join the unofficial conversation, look for the `#waapi` hash tag
 wherever you prefer to communicate.
 
+- Web Animations (API specification), W3C
+- Web Animations polyfill and Web Animation Next (the next incarnation of the polyfill)
+- GreenSock animation library
+- Velocity, a performant .animate() replacement for jQuery
+
 #### Join the Conversation
+
+- Official mailing list: email public-fx@w3.org, starting the subject line with [web-animations] …
+- IRC: irc.w3.org#webanimations
+- Everywhere else: use the hash tag #waapi and engage with the community
 
 #### Make a Difference
 
@@ -305,11 +312,13 @@ Minor corrections to the specification (grammar, spelling, inconsistencies, etc
 
 #### People to Follow on Twitter
 
-*(al, ml)*
+- Brian Birtles, a principal author of the specification and with Mozilla Japan
+- Alex Danilo, Google platform team member and coauthor
+- Tab Atkins—Googler, coauthor and contributor to the CSS specification
+- Jack Doyle, member of GreenSock and GSAP
+- Rachel Nabors, head of animation think tank Tin Magpie
 
-#### Footnotes
 
-[↑ Back to top][77][Share on Twitter][78]</article>
 
 
  [1]: http://www.slideshare.net/CrowChick/animation-and-the-future-of-ux-33573726
@@ -421,7 +430,3 @@ Minor corrections to the specification (grammar, spelling, inconsistencies, etc
  [75]: https://github.com/w3c/web-animations
 
  [76]: http://www.smashingmagazine.com/2014/11/18/the-state-of-animation-2014/#41
-
- [77]: http://www.smashingmagazine.com/2014/11/18/the-state-of-animation-2014/#top "Jump to the top of the page"
-
- [78]: https://twitter.com/intent/tweet?original_referer=http%3A%2F%2Fwww.smashingmagazine.com%2F2014%2F11%2F18%2Fthe-state-of-animation-2014%2F&source=tweetbutton&text=The%20State%20Of%20Animation%202014&url=http%3A%2F%2Fwww.smashingmagazine.com%2F2014%2F11%2F18%2Fthe-state-of-animation-2014%2F&via=smashingmag "Share on Twitter!"
