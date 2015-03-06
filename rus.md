@@ -187,12 +187,8 @@ API.
 что кошки слева бегут вразнобой, а кошки справа абсолютно синхронны
 — прим.пер.)*
 
-<p data-height="583" data-theme-id="0" data-slug-hash="zxYexJ" data-default-
-tab="result" data-user="rachelnabors" class='codepen'>Посмотрите пример <a
-href='http://codepen.io/rachelnabors/pen/zxYexJ/'>как работает Web Animations
-API</a> от Rachel Nabors (<a
-href='http://codepen.io/rachelnabors'>@rachelnabors</a>) на <a
-href='http://codepen.io'>CodePen</a>.</p>
+<p data-height="600" data-theme-id="0" data-slug-hash="NPLbrW" data-default-tab="result" data-user="SilentImp" class='codepen'>Посмотрите пример <a href='http://codepen.io/SilentImp/pen/NPLbrW/'>того, как работает Web Animations API</a> от Rachel Nabors (<a
+href='http://codepen.io/rachelnabors'>@rachelnabors</a>) на <a href='http://codepen.io'>CodePen</a>.</p>
 
 ### Поддержка
 
