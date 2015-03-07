@@ -180,12 +180,6 @@ Web Animation API — это спецификация W3C, которая уст
    
 Вот
 [один из примеров того, что Web Animation API может, а чистый CSS нет][17]
-*(в примере в левой колонке — анимация кошки на CSS, в правой — на Web Animation
-API.
-Если добавить ещё по кошке в каждую колонку(кнопка «Add a Cat»), то можно
-заметить,
-что кошки слева бегут вразнобой, а кошки справа абсолютно синхронны
-— прим.пер.)*
 
 <p data-height="700" data-theme-id="0" data-slug-hash="NPLbrW" data-default-tab="result" data-user="SilentImp" class='codepen'>Посмотрите пример <a href='http://codepen.io/SilentImp/pen/NPLbrW/'>того, как работает Web Animations API</a> от Rachel Nabors (<a
 href='http://codepen.io/rachelnabors'>@rachelnabors</a>) на <a href='http://codepen.io'>CodePen</a>.</p>
